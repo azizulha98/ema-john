@@ -22,11 +22,11 @@ const Header = () => {
 
         <div className="hidden lg:flex">
           <ul className="">
-            <li className='space-x-4 text-white text-xl font-semibold '>
-              <a className='hover:underline hover:text-orange-400' href="/shop">Shop</a>
-              <a className='hover:underline hover:text-orange-400' href="/order">Order</a>
-              <a className='hover:underline hover:text-orange-400' href="/inventory">Inventory</a>
-              <a className='hover:underline hover:text-orange-400' href="/login">Login</a>
+            <li className='space-x-4 text-white text-xl font-semibold uppercase'>
+              <a className='hover:text-orange-400' href="/shop">Shop</a>
+              <a className='hover:text-orange-400' href="/order">Order</a>
+              <a className='hover:text-orange-400' href="/inventory">Inventory</a>
+              <a className='hover:text-orange-400' href="/login">Login</a>
             </li>
           </ul>
         </div>

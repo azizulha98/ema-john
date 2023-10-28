@@ -15,7 +15,7 @@
     {
         "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
         "category": "Men's Sneaker",
-        "name": "LUNAR NEW YEAR ULTRABOOST DNA SHOES",
+        "name": "ULTRABOOST DNA SHOES",
         "seller": "Addidas",
         "price": 196,
         "stock": 19,
@@ -210,7 +210,7 @@
     {
         "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
         "category": "Men's Pants",
-        "name": "TAPERED-CUFF 3-STRIPES PANTS",
+        "name": "TAPERED-CUFF",
         "seller": "Addidas",
         "price": 108,
         "stock": 5,
@@ -223,7 +223,7 @@
     {
         "id": "fd52819a-cb78-4510-ad2f-c5bdd888ae78",
         "category": "Men's Pants",
-        "name": "FRENCH TERRY TAPERED CUFF LOGO PANTS",
+        "name": "TAPERED CUFF LOGO PANTS",
         "seller": "Addidas",
         "price": 189,
         "stock": 27,
@@ -236,7 +236,7 @@
     {
         "id": "c667d3ff-41eb-4cf7-a433-819d959ea768",
         "category": "Men's Pants",
-        "name": "OPEN HEM 3-STRIPES TRACK PANTS",
+        "name": " 3-STRIPES TRACK PANTS",
         "seller": "Addidas",
         "price": 58,
         "stock": 41,
@@ -249,7 +249,7 @@
     {
         "id": "e1dbc7fe-be17-4e0f-9e2d-6ad5dbc102fc",
         "category": "Men's Pants",
-        "name": "ESSENTIALS4GAMEDAY PANTS",
+        "name": "ESSENTIAL S4 GAMEDAY PANTS",
         "seller": "Addidas",
         "price": 185,
         "stock": 43,
